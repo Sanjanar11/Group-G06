@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_3_xl" />
+        <device id="pixel_8_pro" />
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_farmers.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_items.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_dashboard.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_request.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cart.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_farmer_dashboard.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_fertilizer.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_inventory.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_order_detail.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_products.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_request.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_scheme.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signup.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_upi.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_user_dashboard.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_list.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_product_list.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_view_user_order.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_web.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_add_products.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_add_schemes.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_fertilizer_vehicle.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_request.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/order_layout.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/text.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/view_cart.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/view_customer.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/view_farmers.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/view_product.xml">
+        <config>
+          <theme>@style/Theme.UpliftingTheFarmerThroughAConnectedEcosystem</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff150c42-d111-422f-a0e1-3b18567e610b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=PhysicalDevice, isTemplate=false, identifier=serial=76b9d4df)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Uplifting the Farmer through a Connected Ecosystem" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Uplifting the Farmer through a Connected Ecosystem" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Uplifting the Farmer through a Connected Ecosystem" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Uplifting the Farmer through a Connected Ecosystem" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Data Class" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mSPn55NlPTOeMJlwDHwutfsSlG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "PROJECT_TRUSTED_KEY": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "ScreenshotViewer.SavePath": "C:/Users/0927/AndroidStudioProjects/part2code",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/0927/AndroidStudioProjects/part2code",
+    "project.structure.last.edited": "Dependencies",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\0927\AndroidStudioProjects\part2code\app\src\main\res\layout" />
+      <recent name="C:\Users\0927\AndroidStudioProjects\part2code\app\src\main\java\com\project\upliftingthefarmerthroughaconnectedecosystem\adapter" />
+      <recent name="C:\Users\0927\AndroidStudioProjects\part2code\app\src\main\java\com\project\upliftingthefarmerthroughaconnectedecosystem" />
+      <recent name="C:\Users\0927\AndroidStudioProjects\UpliftingtheFarmerthroughaConnectedEcosystem\app\src\main\res\drawable" />
+      <recent name="C:\Users\0927\AndroidStudioProjects\UpliftingtheFarmerthroughaConnectedEcosystem\app\src\main\res\values" />
+    </key>
+    <key name="android.template.1295229005">
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.ui" />
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem" />
+    </key>
+    <key name="android.template.-327367937">
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.ui" />
+    </key>
+    <key name="android.template.-450474921">
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.ui" />
+    </key>
+    <key name="android.template.-1516000975">
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.ui" />
+    </key>
+    <key name="android.template.-1901516129">
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.ui" />
+    </key>
+    <key name="android.template.1044211718">
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.ui" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.model" />
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.ui" />
+    </key>
+    <key name="android.template.-1627251460">
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.ui" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.response" />
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.adapter" />
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.model" />
+      <recent name="com.project.upliftingthefarmerthroughaconnectedecosystem.utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Uplifting_the_Farmer_through_a_Connected_Ecosystem.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff150c42-d111-422f-a0e1-3b18567e610b" name="Changes" comment="" />
+      <created>1727067167497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727067167497</updated>
+    </task>
+    <servers />
+  </component>
+</project>
